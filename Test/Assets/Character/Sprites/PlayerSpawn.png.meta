@@ -1,0 +1,407 @@
+fileFormatVersion: 2
+guid: 1a4bd6d8b694c4f65869fe4d44a0198b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Unity_MC_render_spawn_0
+  - first:
+      213: 21300002
+    second: Unity_MC_render_spawn_1
+  - first:
+      213: 21300004
+    second: Unity_MC_render_spawn_2
+  - first:
+      213: 21300006
+    second: Unity_MC_render_spawn_3
+  - first:
+      213: 21300008
+    second: Unity_MC_render_spawn_4
+  - first:
+      213: 21300010
+    second: Unity_MC_render_spawn_5
+  - first:
+      213: 21300012
+    second: Unity_MC_render_spawn_6
+  - first:
+      213: 21300014
+    second: Unity_MC_render_spawn_7
+  - first:
+      213: 21300016
+    second: Unity_MC_render_spawn_8
+  - first:
+      213: 21300018
+    second: Unity_MC_render_spawn_9
+  - first:
+      213: 21300020
+    second: Unity_MC_render_spawn_10
+  - first:
+      213: 21300022
+    second: Unity_MC_render_spawn_11
+  - first:
+      213: 21300024
+    second: Unity_MC_render_spawn_12
+  - first:
+      213: 21300026
+    second: Unity_MC_render_spawn_13
+  - first:
+      213: 21300028
+    second: Unity_MC_render_spawn_14
+  - first:
+      213: 21300030
+    second: Unity_MC_render_spawn_15
+  - first:
+      213: 21300032
+    second: Unity_MC_render_spawn_16
+  - first:
+      213: 21300034
+    second: Unity_MC_render_spawn_17
+  - first:
+      213: 21300036
+    second: Unity_MC_render_spawn_18
+  - first:
+      213: 21300038
+    second: Unity_MC_render_spawn_19
+  - first:
+      213: -7390362341181018131
+    second: PlayerSpawn_0
+  - first:
+      213: -418359740730436933
+    second: PlayerSpawn_1
+  - first:
+      213: -7951945673471093156
+    second: PlayerSpawn_2
+  - first:
+      213: 1612009582740224259
+    second: PlayerSpawn_3
+  - first:
+      213: 1954161200276627738
+    second: PlayerSpawn_4
+  - first:
+      213: 5854029864971647326
+    second: PlayerSpawn_5
+  - first:
+      213: 628985966998126704
+    second: PlayerSpawn_6
+  - first:
+      213: 7545231731809026526
+    second: PlayerSpawn_7
+  - first:
+      213: -7259906221947368683
+    second: PlayerSpawn_8
+  - first:
+      213: -4020564242924934441
+    second: PlayerSpawn_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerSpawn_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 426
+        width: 45
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def2b744b98207990800000000000000
+      internalID: -7390362341181018131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSpawn_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 428
+        width: 45
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb210794800b13af0800000000000000
+      internalID: -418359740730436933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSpawn_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 428
+        width: 52
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c561d8b8a8305a190800000000000000
+      internalID: -7951945673471093156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSpawn_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 349
+        width: 69
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309b1c9bc220f5610800000000000000
+      internalID: 1612009582740224259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSpawn_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 348
+        width: 73
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b92e6521bd3150800000000000000
+      internalID: 5854029864971647326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSpawn_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 345
+        width: 60
+        height: 52
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07001ab876b9ab800800000000000000
+      internalID: 628985966998126704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSpawn_7
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 342
+        width: 46
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed18b72a84c06b860800000000000000
+      internalID: 7545231731809026526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSpawn_8
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 222
+        width: 44
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bcd2a71c1af3b90800000000000000
+      internalID: -7259906221947368683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerSpawn_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 221
+        width: 34
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da62d77f161438c0800000000000000
+      internalID: -4020564242924934441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d9b7f9a7014734ddf9b8901d991a7f59
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: ae3fa74376e50c447830c92f634c5232
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7422712868128432938
+    second: More TExt bubbles_0
+  - first:
+      213: 5501424670401904564
+    second: More TExt bubbles_1
+  - first:
+      213: 4055605874923455716
+    second: More TExt bubbles_2
+  - first:
+      213: -4629220877565359631
+    second: More TExt bubbles_3
+  - first:
+      213: -6246821161802577687
+    second: More TExt bubbles_4
+  - first:
+      213: -6450206208065738560
+    second: More TExt bubbles_5
+  - first:
+      213: 5131424766657392279
+    second: More TExt bubbles_6
+  - first:
+      213: -6532265668414740317
+    second: More TExt bubbles_7
+  - first:
+      213: -2547494851247460902
+    second: More TExt bubbles_8
+  - first:
+      213: 4990060184577564700
+    second: More TExt bubbles_9
+  - first:
+      213: 8077819321352355663
+    second: More TExt bubbles_10
+  - first:
+      213: -3835954422659198784
+    second: More TExt bubbles_11
+  - first:
+      213: -3973177323949832421
+    second: More TExt bubbles_12
+  - first:
+      213: 2965349370311327654
+    second: More TExt bubbles_13
+  - first:
+      213: -434636176982857441
+    second: More TExt bubbles_14
+  - first:
+      213: -4259459800376882714
+    second: More TExt bubbles_15
+  - first:
+      213: 6544377646341256697
+    second: More TExt bubbles_0
+  - first:
+      213: 132210908469526752
+    second: More TExt bubbles_1
+  - first:
+      213: -2207080907160678186
+    second: More TExt bubbles_2
+  - first:
+      213: -7441169479599757582
+    second: More TExt bubbles_3
+  - first:
+      213: -3608449823646943617
+    second: More TExt bubbles_4
+  - first:
+      213: 1565957114500559544
+    second: More TExt bubbles_5
+  - first:
+      213: 2978780992667264977
+    second: More TExt bubbles_6
+  - first:
+      213: 4155480827295325739
+    second: More TExt bubbles_7
+  - first:
+      213: 563210212298136428
+    second: More TExt bubbles_8
+  - first:
+      213: -5359963590222343884
+    second: More TExt bubbles_9
+  - first:
+      213: -2381951029730735708
+    second: More TExt bubbles_10
+  - first:
+      213: -1600449119620935357
+    second: More TExt bubbles_11
+  - first:
+      213: -1798298604617661257
+    second: More TExt bubbles_12
+  - first:
+      213: -8786466726106769159
+    second: More TExt bubbles_13
+  - first:
+      213: 6660737548717656007
+    second: More TExt bubbles_14
+  - first:
+      213: 4552156343501345696
+    second: More TExt bubbles_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: More TExt bubbles_0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 329
+        width: 100
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57d26bbcc42da50800000000000000
+      internalID: 6544377646341256697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 293
+        width: 117
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e002caee15b5d100800000000000000
+      internalID: 132210908469526752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 215
+        width: 151
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0142acb9fde51e0800000000000000
+      internalID: -2207080907160678186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 269
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66af688c7abb890800000000000000
+      internalID: -7441169479599757582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 257
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76f3b7f0063cedc0800000000000000
+      internalID: -3608449823646943617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 173
+        width: 84
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b23d47e2b56bb510800000000000000
+      internalID: 1565957114500559544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d72e93d781c65920800000000000000
+      internalID: 2978780992667264977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 199
+        width: 80
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e52e5bbcb3ba930800000000000000
+      internalID: 4155480827295325739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 133
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b17ed34bce0d700800000000000000
+      internalID: 563210212298136428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_9
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 101
+        width: 91
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43115c353859d95b0800000000000000
+      internalID: -5359963590222343884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_10
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 115
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a90688982c91fed0800000000000000
+      internalID: -2381951029730735708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_11
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 48
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34158e751001ac9e0800000000000000
+      internalID: -1600449119620935357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b40fa762f82b07e0800000000000000
+      internalID: -1798298604617661257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 45
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8dd97b013301680800000000000000
+      internalID: -8786466726106769159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 18
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c70c6da281bf6c50800000000000000
+      internalID: 6660737548717656007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: More TExt bubbles_15
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 54
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3507873128c2f30800000000000000
+      internalID: 4552156343501345696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

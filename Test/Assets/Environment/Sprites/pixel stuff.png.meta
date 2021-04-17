@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 42198064ca69a104bb3b5f614e6dec08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3462409926458636997
+    second: pixel stuff_0
+  - first:
+      213: 1192156176805422199
+    second: pixel stuff_1
+  - first:
+      213: 4605390560326162408
+    second: pixel stuff_2
+  - first:
+      213: 2725324435481954968
+    second: pixel stuff_3
+  - first:
+      213: -1508208832840835422
+    second: pixel stuff_4
+  - first:
+      213: -3099108016466772851
+    second: pixel stuff_5
+  - first:
+      213: 8600841854795836600
+    second: pixel stuff_6
+  - first:
+      213: 4493997476474782169
+    second: pixel stuff_7
+  - first:
+      213: 2579835334366502198
+    second: pixel stuff_8
+  - first:
+      213: 8597868965250027459
+    second: pixel stuff_9
+  - first:
+      213: 5910624339276937910
+    second: pixel stuff_10
+  - first:
+      213: -3757300055627892337
+    second: pixel stuff_11
+  - first:
+      213: -6281716641780333956
+    second: pixel stuff_12
+  - first:
+      213: 3650048402805155168
+    second: pixel stuff_13
+  - first:
+      213: 7364126081882489666
+    second: pixel stuff_14
+  - first:
+      213: -5833053357504269959
+    second: pixel stuff_15
+  - first:
+      213: -2480893342488778714
+    second: pixel stuff_16
+  - first:
+      213: 38468287027830262
+    second: pixel stuff_17
+  - first:
+      213: -5957632474516701686
+    second: pixel stuff_18
+  - first:
+      213: 7679055256051829730
+    second: pixel stuff_19
+  - first:
+      213: -6291976979108373659
+    second: pixel stuff_20
+  - first:
+      213: 8049540391644555085
+    second: pixel stuff_21
+  - first:
+      213: -2329110135693000425
+    second: pixel stuff_22
+  - first:
+      213: 9191380822242894512
+    second: pixel stuff_23
+  - first:
+      213: 9091415428961889486
+    second: pixel stuff_24
+  - first:
+      213: 3581119204654092981
+    second: pixel stuff_25
+  - first:
+      213: -2037922682430780673
+    second: pixel stuff_26
+  - first:
+      213: 1259675418813458376
+    second: pixel stuff_27
+  - first:
+      213: 5754756155931305080
+    second: pixel stuff_28
+  - first:
+      213: 2436585527606155503
+    second: pixel stuff_29
+  - first:
+      213: -2725584258564846212
+    second: pixel stuff_30
+  - first:
+      213: 5443828157085793005
+    second: pixel stuff_31
+  - first:
+      213: -1560339290395754437
+    second: pixel stuff_32
+  - first:
+      213: -3735119868733727827
+    second: pixel stuff_33
+  - first:
+      213: 4669585772565594402
+    second: pixel stuff_34
+  - first:
+      213: -841967849946476337
+    second: pixel stuff_35
+  - first:
+      213: -4507592624206563392
+    second: pixel stuff_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel stuff_0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 251
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca7a55cb73fc0030800000000000000
+      internalID: 3462409926458636997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 251
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774664bf9b36b8010800000000000000
+      internalID: 1192156176805422199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_2
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 253
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e79d207052a9ef30800000000000000
+      internalID: 4605390560326162408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 261
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a089a722c42d520800000000000000
+      internalID: 2725324435481954968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 274
+        width: 66
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae5a6fae04c11be0800000000000000
+      internalID: -1508208832840835422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_5
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 297
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cbee5cda1cdf4d0800000000000000
+      internalID: -3099108016466772851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_6
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 270
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcea6409145c5770800000000000000
+      internalID: 8600841854795836600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 271
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d108c605e2ed5e30800000000000000
+      internalID: 4493997476474782169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 130
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d9aeb619a6dc320800000000000000
+      internalID: 2579835334366502198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_9
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 224
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf451b3544c15770800000000000000
+      internalID: 8597868965250027459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_10
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 235
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba316f4581c60250800000000000000
+      internalID: 5910624339276937910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 185
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897eb5a1836bdbc0800000000000000
+      internalID: -3757300055627892337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 165
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72060b0ffbd2d8a0800000000000000
+      internalID: -6281716641780333956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 215
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ee2efea397a230800000000000000
+      internalID: 3650048402805155168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 200
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2438bc797a1a23660800000000000000
+      internalID: 7364126081882489666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_15
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 183
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971fe0e40e4dc0fa0800000000000000
+      internalID: -5833053357504269959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 140
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628235b36a8129dd0800000000000000
+      internalID: -2480893342488778714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_17
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 180
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd596704baa88000800000000000000
+      internalID: 38468287027830262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_18
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 69
+        width: 99
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eb91e44dc325da0800000000000000
+      internalID: -5957632474516701686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_19
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 131
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebc09be11c719a60800000000000000
+      internalID: 7679055256051829730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_20
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 129
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b5f4916486ea8a0800000000000000
+      internalID: -6291976979108373659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_21
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 129
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e1218656b5bf60800000000000000
+      internalID: 8049540391644555085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 102
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c147fba65dafd0800000000000000
+      internalID: -2329110135693000425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_23
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 104
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b22029e8285e8f70800000000000000
+      internalID: 9191380822242894512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 78
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc67cc0a223b2e70800000000000000
+      internalID: 9091415428961889486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 76
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b29cbb61f0b2b130800000000000000
+      internalID: 3581119204654092981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 77
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa80022e18d7b3e0800000000000000
+      internalID: -2037922682430780673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_27
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 77
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7eaae8e144b7110800000000000000
+      internalID: 1259675418813458376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 25
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874274bdb300ddf40800000000000000
+      internalID: 5754756155931305080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 25
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe892d5b0ad70d120800000000000000
+      internalID: 2436585527606155503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_30
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 25
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d88debe87cc2ad0800000000000000
+      internalID: -2725584258564846212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_31
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 31
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3e51cddc5c8b40800000000000000
+      internalID: 5443828157085793005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_32
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 25
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3040e2beaf885ae0800000000000000
+      internalID: -1560339290395754437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_33
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 25
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab5f96d4403a2cc0800000000000000
+      internalID: -3735119868733727827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_34
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 25
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2218df50583bdc040800000000000000
+      internalID: 4669585772565594402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_35
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc014af83bab054f0800000000000000
+      internalID: -841967849946476337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel stuff_36
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 24
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c73ff9f360d171c0800000000000000
+      internalID: -4507592624206563392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

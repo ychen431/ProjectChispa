@@ -1,0 +1,656 @@
+fileFormatVersion: 2
+guid: c94e8b8dc299e444a92b6f98a1fc730e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1101185746900040856
+    second: Riyuu camp_0
+  - first:
+      213: -15602624071124440
+    second: Riyuu camp_1
+  - first:
+      213: -8614494929548858675
+    second: Riyuu camp_2
+  - first:
+      213: -8420668085858902754
+    second: Riyuu camp_3
+  - first:
+      213: -5060046380137797141
+    second: Riyuu camp_4
+  - first:
+      213: -2272215103947153258
+    second: Riyuu camp_5
+  - first:
+      213: -8364182395132852837
+    second: Riyuu camp_6
+  - first:
+      213: -5950629567633763208
+    second: Riyuu camp_7
+  - first:
+      213: 7630961462735839271
+    second: Riyuu camp_8
+  - first:
+      213: -6363071204949200280
+    second: Riyuu camp_9
+  - first:
+      213: 6691415681041058190
+    second: Riyuu camp_10
+  - first:
+      213: -1438991456671714373
+    second: Riyuu camp_11
+  - first:
+      213: 5602209304102412750
+    second: Riyuu camp_12
+  - first:
+      213: 1240798866419675620
+    second: Riyuu camp_13
+  - first:
+      213: -6008201009858710075
+    second: Riyuu camp_14
+  - first:
+      213: -7079126791806605599
+    second: Riyuu camp_15
+  - first:
+      213: -1897023658864974272
+    second: Riyuu camp_16
+  - first:
+      213: 2057097789752359472
+    second: Riyuu camp_17
+  - first:
+      213: 4142247231067423951
+    second: Riyuu camp_18
+  - first:
+      213: 2714538935480521582
+    second: Riyuu camp_19
+  - first:
+      213: 3388897560535941659
+    second: Riyuu camp_0
+  - first:
+      213: 7428908007911332505
+    second: Riyuu camp_1
+  - first:
+      213: 5362398897068384531
+    second: Riyuu camp_2
+  - first:
+      213: 46993667680035090
+    second: Riyuu camp_3
+  - first:
+      213: 6487118019321552065
+    second: Riyuu camp_4
+  - first:
+      213: -7640184299254416603
+    second: Riyuu camp_5
+  - first:
+      213: 3126789214697217010
+    second: Riyuu camp_6
+  - first:
+      213: -9136491622570879249
+    second: Riyuu camp_7
+  - first:
+      213: -1920149346298315526
+    second: Riyuu camp_8
+  - first:
+      213: 4536147265050683332
+    second: Riyuu camp_9
+  - first:
+      213: 5584543758178974816
+    second: Riyuu camp_10
+  - first:
+      213: 6389208804642545042
+    second: Riyuu camp_11
+  - first:
+      213: -3905934429469511202
+    second: Riyuu camp_12
+  - first:
+      213: 3125762813430651047
+    second: Riyuu camp_13
+  - first:
+      213: -7311026615686223475
+    second: Riyuu camp_14
+  - first:
+      213: 6371145372458942907
+    second: Riyuu camp_15
+  - first:
+      213: 8913740963255238694
+    second: Riyuu camp_16
+  - first:
+      213: 540262917894456360
+    second: Riyuu camp_17
+  - first:
+      213: 5142729367091144873
+    second: Riyuu camp_18
+  - first:
+      213: -5942310271523518626
+    second: Riyuu camp_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Riyuu camp_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 741
+        width: 1170
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12ceeb4068c70f20800000000000000
+      internalID: 3388897560535941659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_1
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 784
+        width: 1488
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a1c902978c81760800000000000000
+      internalID: 7428908007911332505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 1771
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31125bbb2611b6a40800000000000000
+      internalID: 5362398897068384531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_3
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 663
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211e2c4ed74f6a000800000000000000
+      internalID: 46993667680035090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_4
+      rect:
+        serializedVersion: 2
+        x: 2692
+        y: 589
+        width: 67
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc52b5e77fd60a50800000000000000
+      internalID: 6487118019321552065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 179
+        width: 290
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b7c68fbdc98f590800000000000000
+      internalID: -7640184299254416603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_6
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 490
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbdc8d6936946b20800000000000000
+      internalID: 3126789214697217010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_7
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 505
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69457c649a43180800000000000000
+      internalID: -9136491622570879249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_8
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 506
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcb03ac7524a55e0800000000000000
+      internalID: -1920149346298315526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_9
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 486
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7a43e67e1a3fe30800000000000000
+      internalID: 4536147265050683332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_10
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 485
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf1eab5f8408d40800000000000000
+      internalID: 5584543758178974816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_11
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 472
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d548c6e870ba850800000000000000
+      internalID: 6389208804642545042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_12
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 489
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed17087b4555bc9c0800000000000000
+      internalID: -3905934429469511202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_13
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 169
+        width: 139
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d8a2c7b0f06b20800000000000000
+      internalID: 3125762813430651047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_14
+      rect:
+        serializedVersion: 2
+        x: 2618
+        y: 140
+        width: 196
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89a89c47040a8a90800000000000000
+      internalID: -7311026615686223475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 64
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb10ac1e5fada6850800000000000000
+      internalID: 6371145372458942907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_16
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 71
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6204da6dd28f3bb70800000000000000
+      internalID: 8913740963255238694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 69
+        width: 52
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8244a6ae2466f7700800000000000000
+      internalID: 540262917894456360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 70
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ef6dac15ae5740800000000000000
+      internalID: 5142729367091144873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Riyuu camp_19
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 38
+        width: 136
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e578fa0ba4ca88da0800000000000000
+      internalID: -5942310271523518626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

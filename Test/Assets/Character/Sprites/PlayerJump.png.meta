@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: f43044f34a0b7424eb5deb0c04ff27c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Unity_MC_render_jump_0
+  - first:
+      213: 21300002
+    second: Unity_MC_render_jump_1
+  - first:
+      213: 21300004
+    second: Unity_MC_render_jump_2
+  - first:
+      213: 21300006
+    second: Unity_MC_render_jump_3
+  - first:
+      213: 21300008
+    second: Unity_MC_render_jump_4
+  - first:
+      213: 21300010
+    second: Unity_MC_render_jump_5
+  - first:
+      213: 21300012
+    second: Unity_MC_render_jump_6
+  - first:
+      213: 21300014
+    second: Unity_MC_render_jump_7
+  - first:
+      213: 21300016
+    second: Unity_MC_render_jump_8
+  - first:
+      213: 21300018
+    second: Unity_MC_render_jump_9
+  - first:
+      213: 21300020
+    second: Unity_MC_render_jump_10
+  - first:
+      213: 21300022
+    second: Unity_MC_render_jump_11
+  - first:
+      213: 21300024
+    second: Unity_MC_render_jump_12
+  - first:
+      213: 21300026
+    second: Unity_MC_render_jump_13
+  - first:
+      213: 21300028
+    second: Unity_MC_render_jump_14
+  - first:
+      213: 21300030
+    second: Unity_MC_render_jump_15
+  - first:
+      213: 21300032
+    second: Unity_MC_render_jump_16
+  - first:
+      213: 21300034
+    second: Unity_MC_render_jump_17
+  - first:
+      213: 21300036
+    second: Unity_MC_render_jump_18
+  - first:
+      213: 21300038
+    second: Unity_MC_render_jump_19
+  - first:
+      213: 21300040
+    second: Unity_MC_render_jump_20
+  - first:
+      213: 21300042
+    second: Unity_MC_render_jump_21
+  - first:
+      213: 21300044
+    second: Unity_MC_render_jump_22
+  - first:
+      213: 21300046
+    second: Unity_MC_render_jump_23
+  - first:
+      213: 21300048
+    second: Unity_MC_render_jump_24
+  - first:
+      213: 21300050
+    second: Unity_MC_render_jump_25
+  - first:
+      213: 21300052
+    second: Unity_MC_render_jump_26
+  - first:
+      213: 21300054
+    second: Unity_MC_render_jump_27
+  - first:
+      213: 21300056
+    second: Unity_MC_render_jump_28
+  - first:
+      213: 21300058
+    second: Unity_MC_render_jump_29
+  - first:
+      213: 21300060
+    second: Unity_MC_render_jump_30
+  - first:
+      213: 21300062
+    second: Unity_MC_render_jump_31
+  - first:
+      213: 21300064
+    second: Unity_MC_render_jump_32
+  - first:
+      213: 21300066
+    second: Unity_MC_render_jump_33
+  - first:
+      213: 21300068
+    second: Unity_MC_render_jump_34
+  - first:
+      213: 21300070
+    second: Unity_MC_render_jump_35
+  - first:
+      213: 21300072
+    second: Unity_MC_render_jump_36
+  - first:
+      213: 21300074
+    second: Unity_MC_render_jump_37
+  - first:
+      213: 21300076
+    second: Unity_MC_render_jump_38
+  - first:
+      213: 21300078
+    second: Unity_MC_render_jump_39
+  - first:
+      213: 21300080
+    second: Unity_MC_render_jump_40
+  - first:
+      213: 21300082
+    second: Unity_MC_render_jump_41
+  - first:
+      213: 21300084
+    second: Unity_MC_render_jump_42
+  - first:
+      213: 21300086
+    second: Unity_MC_render_jump_43
+  - first:
+      213: 21300088
+    second: Unity_MC_render_jump_44
+  - first:
+      213: 21300090
+    second: Unity_MC_render_jump_45
+  - first:
+      213: 21300092
+    second: Unity_MC_render_jump_46
+  - first:
+      213: 21300094
+    second: Unity_MC_render_jump_47
+  - first:
+      213: 21300096
+    second: Unity_MC_render_jump_48
+  - first:
+      213: 444702640956841479
+    second: PlayerJump_0
+  - first:
+      213: -7941400250425145444
+    second: PlayerJump_1
+  - first:
+      213: 496497603323687001
+    second: PlayerJump_2
+  - first:
+      213: 8691810124558177054
+    second: PlayerJump_3
+  - first:
+      213: -2098300212452292270
+    second: PlayerJump_4
+  - first:
+      213: -2178818368794951686
+    second: PlayerJump_5
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayerJump_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 778
+        width: 34
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e19e022b6eb2600800000000000000
+      internalID: 444702640956841479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 777
+        width: 39
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97063e2c8a7ac190800000000000000
+      internalID: -7941400250425145444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 778
+        width: 39
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f0fd80f9e3e600800000000000000
+      internalID: 496497603323687001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump_3
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 783
+        width: 50
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e131f61d1438f9870800000000000000
+      internalID: 8691810124558177054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump_4
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 781
+        width: 43
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25987a4f21751e2e0800000000000000
+      internalID: -2098300212452292270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayerJump_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 780
+        width: 40
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff71e9cc3843c1e0800000000000000
+      internalID: -2178818368794951686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d19a003de1e654f98be37a80a68b3b7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

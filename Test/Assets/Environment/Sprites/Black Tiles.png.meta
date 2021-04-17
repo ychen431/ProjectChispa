@@ -1,0 +1,2147 @@
+fileFormatVersion: 2
+guid: 1437571fd8f2cb24898688478220c302
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5065933212652373731
+    second: Black Tiles_0
+  - first:
+      213: 4705789417922073166
+    second: Black Tiles_1
+  - first:
+      213: -6044741982935827645
+    second: Black Tiles_2
+  - first:
+      213: -1227220659931238725
+    second: Black Tiles_3
+  - first:
+      213: 3124024865122393799
+    second: Black Tiles_4
+  - first:
+      213: -2020182819738436886
+    second: Black Tiles_5
+  - first:
+      213: 1398472613941649145
+    second: Black Tiles_6
+  - first:
+      213: 1714305550459760972
+    second: Black Tiles_7
+  - first:
+      213: 7360229061373984847
+    second: Black Tiles_8
+  - first:
+      213: 7928642765604650191
+    second: Black Tiles_9
+  - first:
+      213: 2532949860486361923
+    second: Black Tiles_10
+  - first:
+      213: -3310586793629786942
+    second: Black Tiles_11
+  - first:
+      213: 8812517429034816152
+    second: Black Tiles_12
+  - first:
+      213: -4911128235409393259
+    second: Black Tiles_13
+  - first:
+      213: 3244809314226655664
+    second: Black Tiles_14
+  - first:
+      213: 7107019355165327627
+    second: Black Tiles_15
+  - first:
+      213: -1602047153338635515
+    second: Black Tiles_16
+  - first:
+      213: -2301337548297492368
+    second: Black Tiles_17
+  - first:
+      213: -9052354369583353846
+    second: Black Tiles_18
+  - first:
+      213: 4526417280261773873
+    second: Black Tiles_19
+  - first:
+      213: 406648150469980837
+    second: Black Tiles_20
+  - first:
+      213: -6030667970149245201
+    second: Black Tiles_21
+  - first:
+      213: -4164203554050934603
+    second: Black Tiles_22
+  - first:
+      213: 6418387270553468335
+    second: Black Tiles_23
+  - first:
+      213: -312509948219944493
+    second: Black Tiles_24
+  - first:
+      213: 6204855677264593033
+    second: Black Tiles_25
+  - first:
+      213: -904041963926907846
+    second: Black Tiles_26
+  - first:
+      213: -1788073083083154633
+    second: Black Tiles_27
+  - first:
+      213: 4001431574422145749
+    second: Black Tiles_28
+  - first:
+      213: 1406327271390868706
+    second: Black Tiles_29
+  - first:
+      213: 7533000198983173275
+    second: Black Tiles_30
+  - first:
+      213: -3673805743607430203
+    second: Black Tiles_31
+  - first:
+      213: 1253621407998558867
+    second: Black Tiles_32
+  - first:
+      213: -1016773631264915723
+    second: Black Tiles_33
+  - first:
+      213: 5598706688948495595
+    second: Black Tiles_34
+  - first:
+      213: 2231361331323687776
+    second: Black Tiles_35
+  - first:
+      213: 6663456495901194763
+    second: Black Tiles_36
+  - first:
+      213: -5474320691430081287
+    second: Black Tiles_37
+  - first:
+      213: -8870972905710392754
+    second: Black Tiles_38
+  - first:
+      213: 8563910774153980806
+    second: Black Tiles_39
+  - first:
+      213: -4124804571263112169
+    second: Black Tiles_40
+  - first:
+      213: -5208044270966912117
+    second: Black Tiles_41
+  - first:
+      213: -7815675308155953426
+    second: Black Tiles_42
+  - first:
+      213: 5777759842038917616
+    second: Black Tiles_43
+  - first:
+      213: -5085744831489545031
+    second: Black Tiles_44
+  - first:
+      213: 1620546433526966494
+    second: Black Tiles_45
+  - first:
+      213: -4618277610539213865
+    second: Black Tiles_46
+  - first:
+      213: -6057621225224973004
+    second: Black Tiles_47
+  - first:
+      213: -5385650792123049185
+    second: Black Tiles_48
+  - first:
+      213: -8133096430077352488
+    second: Black Tiles_49
+  - first:
+      213: -5981709420337405966
+    second: Black Tiles_50
+  - first:
+      213: 2221512971900817132
+    second: Black Tiles_51
+  - first:
+      213: 938346249563414990
+    second: Black Tiles_52
+  - first:
+      213: 4172711690452943962
+    second: Black Tiles_53
+  - first:
+      213: 3209493149706264342
+    second: Black Tiles_54
+  - first:
+      213: -3497365786009336246
+    second: Black Tiles_55
+  - first:
+      213: -304570533372612973
+    second: Black Tiles_56
+  - first:
+      213: -3855277249882384764
+    second: Black Tiles_57
+  - first:
+      213: 4671897150240561679
+    second: Black Tiles_58
+  - first:
+      213: -8812155546514883981
+    second: Black Tiles_59
+  - first:
+      213: 8582965968450180417
+    second: Black Tiles_60
+  - first:
+      213: 228672617659827316
+    second: Black Tiles_61
+  - first:
+      213: 3964071414899395752
+    second: Black Tiles_62
+  - first:
+      213: -1296082464840042264
+    second: Black Tiles_63
+  - first:
+      213: -6881376908681504315
+    second: Black Tiles_64
+  - first:
+      213: -3276263083680350830
+    second: Black Tiles_65
+  - first:
+      213: -6738391217995262711
+    second: Black Tiles_66
+  - first:
+      213: 37138614200431437
+    second: Black Tiles_67
+  - first:
+      213: 5947449997708774342
+    second: Black Tiles_68
+  - first:
+      213: 4904946025659523997
+    second: Black Tiles_69
+  - first:
+      213: -4618972823192625968
+    second: Black Tiles_70
+  - first:
+      213: -5657097101989099074
+    second: Black Tiles_71
+  - first:
+      213: 4304249539888839887
+    second: Black Tiles_72
+  - first:
+      213: 3719590138264221779
+    second: Black Tiles_73
+  - first:
+      213: -2069378968438224012
+    second: Black Tiles_74
+  - first:
+      213: -32130553012521390
+    second: Black Tiles_75
+  - first:
+      213: -6568713557727653463
+    second: Black Tiles_76
+  - first:
+      213: 1518086119223132951
+    second: Black Tiles_77
+  - first:
+      213: 3532328321749226298
+    second: Black Tiles_78
+  - first:
+      213: 3091570526544414864
+    second: Black Tiles_79
+  - first:
+      213: -1938047157327993529
+    second: Black Tiles_80
+  - first:
+      213: -5173439289262197971
+    second: Black Tiles_81
+  - first:
+      213: 2663554187188896984
+    second: Black Tiles_82
+  - first:
+      213: -4266307079884640361
+    second: Black Tiles_83
+  - first:
+      213: 506662196410618036
+    second: Black Tiles_84
+  - first:
+      213: -7477008781365742516
+    second: Black Tiles_85
+  - first:
+      213: 2016864962766047727
+    second: Black Tiles_86
+  - first:
+      213: -5277775836378241657
+    second: Black Tiles_87
+  - first:
+      213: -7556911848578447739
+    second: Black Tiles_88
+  - first:
+      213: 6872122199785765136
+    second: Black Tiles_89
+  - first:
+      213: 7595235250265658934
+    second: Black Tiles_90
+  - first:
+      213: -1970423211459586646
+    second: Black Tiles_91
+  - first:
+      213: 5598506142008487980
+    second: Black Tiles_92
+  - first:
+      213: 8983913182720120536
+    second: Black Tiles_93
+  - first:
+      213: -4460850364998925113
+    second: Black Tiles_94
+  - first:
+      213: -9096209322594017940
+    second: Black Tiles_95
+  - first:
+      213: 1801544230784527615
+    second: Black Tiles_96
+  - first:
+      213: -915724836821058577
+    second: Black Tiles_97
+  - first:
+      213: 6755919700482408892
+    second: Black Tiles_98
+  - first:
+      213: 897002902586498652
+    second: Black Tiles_99
+  - first:
+      213: -3049384749439611047
+    second: Black Tiles_100
+  - first:
+      213: -2478387505623961270
+    second: Black Tiles_101
+  - first:
+      213: 5488020097328726999
+    second: Black Tiles_102
+  - first:
+      213: -2795602274773122953
+    second: Black Tiles_103
+  - first:
+      213: -78628650650086581
+    second: Black Tiles_104
+  - first:
+      213: -3874664195830509159
+    second: Black Tiles_105
+  - first:
+      213: 143915412185407217
+    second: Black Tiles_106
+  - first:
+      213: -6101258959070743716
+    second: Black Tiles_107
+  - first:
+      213: 6001841442631301804
+    second: Black Tiles_108
+  - first:
+      213: -9001291717200925655
+    second: Black Tiles_109
+  - first:
+      213: -1258059888897988685
+    second: Black Tiles_110
+  - first:
+      213: 8891447855405577480
+    second: Black Tiles_111
+  - first:
+      213: -2932712526023841107
+    second: Black Tiles_112
+  - first:
+      213: 8755389631213468024
+    second: Black Tiles_113
+  - first:
+      213: -2962567702886121821
+    second: Black Tiles_114
+  - first:
+      213: -7676880507660238076
+    second: Black Tiles_115
+  - first:
+      213: -1942893275630099547
+    second: Black Tiles_116
+  - first:
+      213: -560702395138507103
+    second: Black Tiles_117
+  - first:
+      213: -3813345070785980064
+    second: Black Tiles_118
+  - first:
+      213: 8839330993158153531
+    second: Black Tiles_119
+  - first:
+      213: -3457914359595485143
+    second: Black Tiles_120
+  - first:
+      213: 819872747248556846
+    second: Black Tiles_121
+  - first:
+      213: -5627388654690556586
+    second: Black Tiles_122
+  - first:
+      213: -3168505235057605370
+    second: Black Tiles_123
+  - first:
+      213: 6791145183910861734
+    second: Black Tiles_124
+  - first:
+      213: 7263102955275647301
+    second: Black Tiles_125
+  - first:
+      213: 1033444339139942206
+    second: Black Tiles_126
+  - first:
+      213: 3594528982730045804
+    second: Black Tiles_127
+  - first:
+      213: 8801360770105435304
+    second: Black Tiles_128
+  - first:
+      213: -3576326025636291678
+    second: Black Tiles_129
+  - first:
+      213: -4468784780558930827
+    second: Black Tiles_130
+  - first:
+      213: -6492806439362012324
+    second: Black Tiles_131
+  - first:
+      213: 7651828139663508520
+    second: Black Tiles_132
+  - first:
+      213: -1757446210866645908
+    second: Black Tiles_133
+  - first:
+      213: -7947004097720049351
+    second: Black Tiles_134
+  - first:
+      213: -6122777332245580575
+    second: Black Tiles_135
+  - first:
+      213: 803767361879001052
+    second: Black Tiles_136
+  - first:
+      213: 3932144095806241952
+    second: Black Tiles_137
+  - first:
+      213: -1063954659974076499
+    second: Black Tiles_138
+  - first:
+      213: -6573109716917931020
+    second: Black Tiles_139
+  - first:
+      213: 9184832802498422576
+    second: Black Tiles_140
+  - first:
+      213: -1121870631125493722
+    second: Black Tiles_141
+  - first:
+      213: 3281380583182995408
+    second: Black Tiles_142
+  - first:
+      213: -2783636989000161661
+    second: Black Tiles_143
+  - first:
+      213: 2599605795208614664
+    second: Black Tiles_144
+  - first:
+      213: -1332111664990896257
+    second: Black Tiles_145
+  - first:
+      213: -2128609863227842792
+    second: Black Tiles_146
+  - first:
+      213: -5792560514081083957
+    second: Black Tiles_147
+  - first:
+      213: -2745088719476408094
+    second: Black Tiles_148
+  - first:
+      213: 3848118422683261820
+    second: Black Tiles_149
+  - first:
+      213: 14177657590126640
+    second: Black Tiles_150
+  - first:
+      213: 8732386506277604092
+    second: Black Tiles_151
+  - first:
+      213: -3703308459712258596
+    second: Black Tiles_152
+  - first:
+      213: 3594665353352700376
+    second: Black Tiles_153
+  - first:
+      213: 5919859401587483922
+    second: Black Tiles_154
+  - first:
+      213: 4183601272805223310
+    second: Black Tiles_155
+  - first:
+      213: -386376182660999696
+    second: Black Tiles_156
+  - first:
+      213: -3142812829307317087
+    second: Black Tiles_157
+  - first:
+      213: -7271238316368152113
+    second: Black Tiles_158
+  - first:
+      213: -645441178958681372
+    second: Black Tiles_159
+  - first:
+      213: 417831943217684635
+    second: Black Tiles_160
+  - first:
+      213: 8232570933581696244
+    second: Black Tiles_161
+  - first:
+      213: 8186990134941085695
+    second: Black Tiles_162
+  - first:
+      213: 5204920751055155429
+    second: Black Tiles_163
+  - first:
+      213: -3860844463302249108
+    second: Black Tiles_164
+  - first:
+      213: 7113740258213035017
+    second: Black Tiles_165
+  - first:
+      213: -4400457980740222126
+    second: Black Tiles_166
+  - first:
+      213: -1823226191119821248
+    second: Black Tiles_167
+  - first:
+      213: 6916773320087638749
+    second: Black Tiles_168
+  - first:
+      213: -168990491568643140
+    second: Black Tiles_169
+  - first:
+      213: 3234324806144515143
+    second: Black Tiles_170
+  - first:
+      213: 752854387398282369
+    second: Black Tiles_171
+  - first:
+      213: -8049533119640287825
+    second: Black Tiles_0
+  - first:
+      213: 3714351486689399788
+    second: Black Tiles_1
+  - first:
+      213: 8030627762754849471
+    second: Black Tiles_2
+  - first:
+      213: -2582931944497685283
+    second: Black Tiles_3
+  - first:
+      213: 9132697117626265165
+    second: Black Tiles_4
+  - first:
+      213: 2702883707526841560
+    second: Black Tiles_5
+  - first:
+      213: 6816076474363323957
+    second: Black Tiles_6
+  - first:
+      213: 5675759755766019483
+    second: Black Tiles_7
+  - first:
+      213: 5425762421311032767
+    second: Black Tiles_8
+  - first:
+      213: 7468648472503171273
+    second: Black Tiles_9
+  - first:
+      213: 831207144672656570
+    second: Black Tiles_10
+  - first:
+      213: 5490461089590603333
+    second: Black Tiles_11
+  - first:
+      213: 31829860327647425
+    second: Black Tiles_12
+  - first:
+      213: -328489645000103006
+    second: Black Tiles_13
+  - first:
+      213: -4280869193037313476
+    second: Black Tiles_14
+  - first:
+      213: 8775032659986471721
+    second: Black Tiles_15
+  - first:
+      213: -4303984278612938777
+    second: Black Tiles_16
+  - first:
+      213: 594637447205881116
+    second: Black Tiles_17
+  - first:
+      213: -3144564221307944400
+    second: Black Tiles_18
+  - first:
+      213: 2573503258558545051
+    second: Black Tiles_19
+  - first:
+      213: 3843737780249403587
+    second: Black Tiles_20
+  - first:
+      213: 1749251531409103125
+    second: Black Tiles_21
+  - first:
+      213: 6236109222551373820
+    second: Black Tiles_22
+  - first:
+      213: -1696302788987943328
+    second: Black Tiles_23
+  - first:
+      213: -1300581052405673129
+    second: Black Tiles_24
+  - first:
+      213: 7330816643592946867
+    second: Black Tiles_25
+  - first:
+      213: -4512181586625923405
+    second: Black Tiles_26
+  - first:
+      213: -8463431780360294930
+    second: Black Tiles_27
+  - first:
+      213: 1601285648677577137
+    second: Black Tiles_28
+  - first:
+      213: -4382523054451870222
+    second: Black Tiles_29
+  - first:
+      213: -776749868528994390
+    second: Black Tiles_30
+  - first:
+      213: 694619692383131698
+    second: Black Tiles_31
+  - first:
+      213: 918901967180840610
+    second: Black Tiles_32
+  - first:
+      213: -3972008895470138168
+    second: Black Tiles_33
+  - first:
+      213: -3058528572999741350
+    second: Black Tiles_34
+  - first:
+      213: -1363191641144438802
+    second: Black Tiles_35
+  - first:
+      213: 2488496622799084290
+    second: Black Tiles_36
+  - first:
+      213: 1837173970738261415
+    second: Black Tiles_37
+  - first:
+      213: 6633637081422461724
+    second: Black Tiles_38
+  - first:
+      213: -797591087758772716
+    second: Black Tiles_39
+  - first:
+      213: -631288200301383621
+    second: Black Tiles_40
+  - first:
+      213: -7674459355892837127
+    second: Black Tiles_41
+  - first:
+      213: 6316481861290406006
+    second: Black Tiles_42
+  - first:
+      213: 8079226256189491213
+    second: Black Tiles_43
+  - first:
+      213: -8042082429243235156
+    second: Black Tiles_44
+  - first:
+      213: 5916178240442598079
+    second: Black Tiles_45
+  - first:
+      213: -1322220733335796069
+    second: Black Tiles_46
+  - first:
+      213: 4180194999094683536
+    second: Black Tiles_47
+  - first:
+      213: 2807628022016869318
+    second: Black Tiles_48
+  - first:
+      213: -3394103250246186698
+    second: Black Tiles_49
+  - first:
+      213: -1881103394631063270
+    second: Black Tiles_50
+  - first:
+      213: 6180131503710095591
+    second: Black Tiles_51
+  - first:
+      213: -8771453779926319386
+    second: Black Tiles_52
+  - first:
+      213: 3439278112838952035
+    second: Black Tiles_53
+  - first:
+      213: -7269114403352013654
+    second: Black Tiles_54
+  - first:
+      213: 1002746354122502979
+    second: Black Tiles_55
+  - first:
+      213: -1464920848376889971
+    second: Black Tiles_56
+  - first:
+      213: 4748429325425757097
+    second: Black Tiles_57
+  - first:
+      213: 5344736500982772151
+    second: Black Tiles_58
+  - first:
+      213: 4445642160074716692
+    second: Black Tiles_59
+  - first:
+      213: -1348946590321583186
+    second: Black Tiles_60
+  - first:
+      213: -8168252625839774230
+    second: Black Tiles_61
+  - first:
+      213: 6824239187816793817
+    second: Black Tiles_62
+  - first:
+      213: 2248895009494002384
+    second: Black Tiles_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa54914a6405a4090800000000000000
+      internalID: -8049533119640287825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d0176ff60c8330800000000000000
+      internalID: 3714351486689399788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba8462f665827f60800000000000000
+      internalID: 8030627762754849471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcd439d415972cd0800000000000000
+      internalID: -2582931944497685283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ee85134abddbe70800000000000000
+      internalID: 9132697117626265165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d404585962928520800000000000000
+      internalID: 2702883707526841560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a258b071979e50800000000000000
+      internalID: 6816076474363323957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9534e82d6954ce40800000000000000
+      internalID: 5675759755766019483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd48eddc2e2c4b40800000000000000
+      internalID: 5425762421311032767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b0d31738f5a760800000000000000
+      internalID: 7468648472503171273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcfaf08e7a098b00800000000000000
+      internalID: 831207144672656570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee6227549023c40800000000000000
+      internalID: 5490461089590603333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abef558868f07bf0800000000000000
+      internalID: -328489645000103006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a0913662c4794c0800000000000000
+      internalID: -4280869193037313476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 357
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd1fe46bd27c970800000000000000
+      internalID: 8775032659986471721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efe8622a1d2544c0800000000000000
+      internalID: -4303984278612938777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150ad29b93904800800000000000000
+      internalID: 594637447205881116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032898750834c54d0800000000000000
+      internalID: -3144564221307944400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c31b2249be6b320800000000000000
+      internalID: 2573503258558545051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a3896523b75530800000000000000
+      internalID: 3843737780249403587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199278fff6964810800000000000000
+      internalID: 1749251531409103125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf746be2c4c1b8650800000000000000
+      internalID: 6236109222551373820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0668edec9958578e0800000000000000
+      internalID: -1696302788987943328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75391c17c6863fde0800000000000000
+      internalID: -1300581052405673129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b401e2a5ea4cb560800000000000000
+      internalID: 7330816643592946867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b67a17e0c28161c0800000000000000
+      internalID: -4512181586625923405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed6fde03a9db8a80800000000000000
+      internalID: -8463431780360294930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1ab5140d8e83610800000000000000
+      internalID: 1601285648677577137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5bf6760862e23c0800000000000000
+      internalID: -4382523054451870222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa77ff62c1e6835f0800000000000000
+      internalID: -776749868528994390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 257
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238dc721ee8c3a900800000000000000
+      internalID: 694619692383131698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb839787890cc00800000000000000
+      internalID: 918901967180840610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc8fc444f690e8c0800000000000000
+      internalID: -3972008895470138168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50d7f6b77ced85d0800000000000000
+      internalID: -3058528572999741350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefcdc4cc68f41de0800000000000000
+      internalID: -1363191641144438802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bd2ba6e7ae88220800000000000000
+      internalID: 2488496622799084290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ada27c1ef3fe7910800000000000000
+      internalID: 1837173970738261415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b7b0f67c96f0c50800000000000000
+      internalID: 6633637081422461724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416fe1aa1236ee4f0800000000000000
+      internalID: -797591087758772716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30f32ef9b63d37f0800000000000000
+      internalID: -631288200301383621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f495d870e7de7590800000000000000
+      internalID: -7674459355892837127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670b96469c6a8a750800000000000000
+      internalID: 6316481861290406006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d080f24797d2f1070800000000000000
+      internalID: 8079226256189491213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4eb8ea3a8c46090800000000000000
+      internalID: -8042082429243235156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20a71b3cc7a1250800000000000000
+      internalID: 5916178240442598079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b960dda9f3786ade0800000000000000
+      internalID: -1322220733335796069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 157
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09727ec3439030a30800000000000000
+      internalID: 4180194999094683536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c38fb18fc2b6f620800000000000000
+      internalID: 2807628022016869318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c31e9319b5e0d0800000000000000
+      internalID: -3394103250246186698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19eb39dd6af4e5e0800000000000000
+      internalID: -1881103394631063270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e847dfdbdc34c550800000000000000
+      internalID: 6180131503710095591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eefbb3a249854680800000000000000
+      internalID: -8771453779926319386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364aa87b835cabf20800000000000000
+      internalID: 3439278112838952035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4178ca6faee1b90800000000000000
+      internalID: -7269114403352013654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3433a4d0f787aed00800000000000000
+      internalID: 1002746354122502979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d7e68ff3e8babe0800000000000000
+      internalID: -1464920848376889971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abcc0f205fc5e140800000000000000
+      internalID: 4748429325425757097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1742fa7815c2a40800000000000000
+      internalID: 5344736500982772151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416f0c59df712bd30800000000000000
+      internalID: 4445642160074716692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab58ee1934974de0800000000000000
+      internalID: -1348946590321583186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52b29938984ae80800000000000000
+      internalID: -8168252625839774230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6ce1c826194be50800000000000000
+      internalID: 6824239187816793817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 57
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae902981ea53f10800000000000000
+      internalID: 2248895009494002384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
